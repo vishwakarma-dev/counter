@@ -2,7 +2,7 @@
 
 ![Preview](image.png)
 
-![Live Preview](https://vishwakarma-dev.github.io/React-Counter-App/)
+[Live Preview](https://vishwakarma-dev.github.io/React-Counter-App/)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
