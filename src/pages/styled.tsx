@@ -28,6 +28,9 @@ export const VSButton = styled(Button)(({ theme }) => ({
   '&:active': {
     backgroundColor: 'rgba(151, 132, 189, 0.2)',
   },
+  '@media (max-width: 768px)': {
+    fontSize: '18px', 
+  },
 }));
 
 export const VSAsyncButton = styled(VSButton)(({ theme }) => ({
