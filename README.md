@@ -1,6 +1,6 @@
 ![image](https://github.com/vishwakarma-dev/React-Counter-App/assets/122674541/3d4370d1-f432-49d2-bdc1-50269de99a91)
 
-<h4>[Live Preview](https://vishwakarma-dev.github.io/React-Counter-App/)</h4>
+[<h4>Live Preview</h4>](https://vishwakarma-dev.github.io/React-Counter-App/)
 
 # Getting Started with Create React App
 
