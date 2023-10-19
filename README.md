@@ -1,8 +1,9 @@
-# Getting Started with Create React App
-
-![Preview](image.png)
+![image](https://github.com/vishwakarma-dev/React-Counter-App/assets/122674541/3d4370d1-f432-49d2-bdc1-50269de99a91)
 
 [Live Preview](https://vishwakarma-dev.github.io/React-Counter-App/)
+
+# Getting Started with Create React App
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
